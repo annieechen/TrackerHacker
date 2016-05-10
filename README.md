@@ -1,5 +1,6 @@
 # TrackerHacker
 Raspberry Pi Tracking Device: develope to monitor exhibit attendance at the Yale Peabody Musuem
+
 Created by Annie Chen, Torie Nielsen, Deniz Saip and David Schwartz
 
 # Quick Overview
